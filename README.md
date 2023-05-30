@@ -18,5 +18,5 @@ Baixe a mesma versão do seu navegador.
 ## Executando o projeto
 Para rodar o programa navegue até a pasta do projeto, abra o terminal nessa pasta e use o seguinte comando:
   
-    python script_mercadolivre.py
+    python crawler_mercadolivre.py
  obs: não esqueça de ativar o ambiente virtual antes de executar o comando acima, caso tenha decidido utilizar :)
